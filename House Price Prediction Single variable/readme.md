@@ -39,7 +39,7 @@ The linear regression model's performance on the test data:
 To run this project locally, follow these steps:
 
 Run the notebook:
-Open and run the `house_price_prediction.ipynb` notebook using Jupyter or any compatible environment.
+Open and run the `house_price_prediction.ipynb` notebook using Jupyter or any compatible environment or find the code in `house_price_prediction.py`.
 
 ## Predictions
 
